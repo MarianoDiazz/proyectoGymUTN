@@ -1,9 +1,9 @@
 import { Card, Button, Row, Col } from "react-bootstrap";
 
 const plans = [
-  { title: "Básico", price: "$20/mes", desc: "Acceso a máquinas" },
-  { title: "Intermedio", price: "$35/mes", desc: "Máquinas + Clases grupales" },
-  { title: "Premium", price: "$50/mes", desc: "Todo incluido + Personal Trainer" },
+  { title: "Básico", price: "$20000/mes", desc: "Acceso a máquinas" },
+  { title: "Intermedio", price: "$30000/mes", desc: "Máquinas + Clases grupales" },
+  { title: "Premium", price: "$42000/mes", desc: "Todo incluido + Personal Trainer" },
 ];
 
 export default function TrainingPlans() {
